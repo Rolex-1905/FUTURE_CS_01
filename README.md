@@ -40,4 +40,4 @@ Public demo website (public-facing pages only)
 This assessment was conducted strictly for educational purposes as part of the Future Interns Cyber Security Internship. No exploitation or harmful activity was performed.
 
 ## Author
-Neeraj
+Neeraj Mudunuru
