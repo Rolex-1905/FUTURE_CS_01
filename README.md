@@ -10,7 +10,7 @@ Vulnerability Assessment Report for a Live Website
 To perform a passive security assessment on a public website and identify common security weaknesses using ethical, non-intrusive methods.
 
 ## Target
-Public demo website (public-facing pages only)
+Public demo website (http://testphp.vulnweb.com)
 
 ## Scope
 - Public pages only
